@@ -1,12 +1,12 @@
 {
-  "name": "cooldudebot",
+  "name": "cool",
   "version": "1.0.0",
-  "description": "CooldudeBot, the discord bot made by CooldudeOMG",
+  "description": "Cool, the discord bot made by Lanes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "CooldudeOMG",
+  "author": "Lanes",
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.3.2",
